@@ -70,6 +70,7 @@ const minter = async (fetch = true) => {
   );
 
   const metaplex = Metaplex.make(connection).use(keypairIdentity(wallet));
+
   let nft;
 
   try {

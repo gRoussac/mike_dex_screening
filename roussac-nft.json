@@ -2,7 +2,7 @@
   "name": "My mike_dex NFT",
   "symbol": "",
   "description": "Test nfl-bet-app NFT Roussac / mike_dex_screening",
-  "seller_fee_basis_points": 500,
+  "seller_fee_basis_points": 100,
   "image": "https://imgflip.com/gif/9u99bb",
   "attributes": [],
   "properties": {
